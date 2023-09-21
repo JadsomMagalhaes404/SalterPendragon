@@ -16,4 +16,3 @@ Estou estudando para a área de back-end
 Artoria Pendragon👑![1136_Excalibur](https://github.com/Freitas-gui/Calisthenics-Movements/assets/121525881/fe9f1c23-3236-4f42-9ffe-198d6f84fd63)
 
 
-![Salter Gif](https://github.com/Freitas-gui/Calisthenics-Movements/assets/121525881/c70ba96a-be8c-4fc4-aec9-7b713c7753ef)
