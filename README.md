@@ -1,6 +1,7 @@
 ### Olá,sou o Jadsom
 
-Estou estudando para a área de back-end
+Estou estudando e aprimando meus conhecimentos na área de tecnologia,estou disposto a aprender coisas novas 
+e me adaptar.
 <div style="display: inline_block"><br>
   <img align="center" alt="Salter-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
