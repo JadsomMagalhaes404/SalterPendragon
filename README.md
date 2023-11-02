@@ -5,6 +5,7 @@ e me adaptar.
 <div style="display: inline_block"><br>
   <img align="center" alt="Salter-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
+  <img align="center" alt="Salter-java" height="30" width="40" src="https://icons8.com.br/icon/20909/html-5">
   <img align="center" alt="Salter-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   
 </div>
