@@ -14,6 +14,5 @@ e me adaptar.
   <a href="https://www.linkedin.com/in/jadsom-magalhães-0777b6241/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-Artoria Pendragon👑![1136_Excalibur](https://github.com/Freitas-gui/Calisthenics-Movements/assets/121525881/fe9f1c23-3236-4f42-9ffe-198d6f84fd63)
 
 
